@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Linux命令查询",
+        "icon": "../../img/ico/tool/linux.ico",
+        "URL": "https://linux.lylme.com/"
+    },
+    {
+        "name": "Cloudflare",
+        "icon": "../../img/ico/tool/cloudflare.ico",
+        "URL": "https://dash.cloudflare.com"
+    },
+    {
+        "name": "Vercel",
+        "icon": "../../img/ico/tool/vercel.png",
+        "URL": "https://vercel.com"
+    },
+    {
+        "name": "樱花内网穿透",
+        "icon": "../../img/ico/tool/natfrp.ico",
+        "URL": "https://www.natfrp.com"
+    },
+    {
+        "name": "Wormhole",
+        "icon": "../../img/ico/tool/wormhole.webp",
+        "URL": "https://wormhole.app"
+    },
+    {
+        "name": "在线去水印",
+        "icon": "../../img/ico/tool/vidmore.ico",
+        "URL": "https://www.vidmore.com/zh"
+    },
+    {
+        "name": "ICON全套制作",
+        "icon": "../../img/ico/tool/realfavicongenerator.png",
+        "URL": "https://realfavicongenerator.net"
+    },
+    {
+        "name": "阿里云矢量图标库",
+        "icon": "../../img/ico/tool/iconfont.png",
+        "URL": "https://www.iconfont.cn"
+    }
+]

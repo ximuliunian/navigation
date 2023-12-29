@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>导航栏</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="shortcut icon" href="https://blog.ximuliunian.top/img/favicon.ico">
+    <script src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/axios/0.26.0/axios.js"></script>
+    <script src="./js/image.js"></script>
+</head>
+
+<body>
+    <!-- 加载期 -->
+    <div id="loading">
+        <img src="./img/loading.gif">
+    </div>
+
+    <!-- 背景 -->
+    <img id="backgroundImage" onload="loadingOk()">
+
+    <!-- 主体内容 -->
+    <div id="subject">
+        <!-- 搜索框主体 -->
+        <div id="search_subject">
+            <!-- 搜索框 -->
+            <div id="search_input">
+                <input type="text" name="search" placeholder="请输入搜索内容">
+            </div>
+            <!-- 按钮 -->
+            <div id="search_button" data-URL="https://cn.bing.com/search?q=">
+                <button id="clickSearch">
+                    <img src="./img/search_engine/Bing.ico">
+                    <span>Bing</span>
+                </button>
+
+                <button id="SE"> ﹀ </button>
+                <div id="SEList">
+                    <!-- 添加数据内容 -->
+                    <div class="SEList" style="display: none;">
+                        <img src="">
+                        <span>xxx</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 标签内容 -->
+        <div id="tag_element">
+            <div class="tag_element" style="display: none;">
+                <h2>工具</h2>
+                <div class="tag_element_div">
+                    <div>
+                        <a href="#">
+                            <img>
+                            <span>你好</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="./js/SEList.js"></script>
+    <script src="./js/tagNav.js"></script>
+</body>
+
+</html>

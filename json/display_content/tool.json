@@ -1,0 +1,37 @@
+[
+    {
+        "name": "GitHub",
+        "icon": "../../img/ico/programming/github.ico",
+        "URL": "https://github.com"
+    },
+    {
+        "name": "Bytedance",
+        "icon": "../../img/ico/programming/bytedance.png",
+        "URL": "https://cdn.bytedance.com"
+    },
+    {
+        "name": "Element-UI组件库",
+        "icon": "../../img/ico/programming/element.png",
+        "URL": "https://element-plus.org/zh-CN"
+    },
+    {
+        "name": "Vue",
+        "icon": "../../img/ico/programming/vue.png",
+        "URL": "https://cn.vuejs.org"
+    },
+    {
+        "name": "Axios",
+        "icon": "../../img/ico/programming/axios.png",
+        "URL": "https://www.axios-http.cn"
+    },
+    {
+        "name": "SQLPub免费的数据库",
+        "icon": "../../img/ico/programming/sqlpub.ico",
+        "URL": "https://sqlpub.com"
+    },
+    {
+        "name": "Maven",
+        "icon": "../../img/ico/programming/maven.png",
+        "URL": "https://central.sonatype.com"
+    }
+]

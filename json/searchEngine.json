@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Bing",
+        "icon": "../../img/search_engine/bing.ico",
+        "URL": "https://cn.bing.com/search?q="
+    },
+    {
+        "name": "百度",
+        "icon": "../../img/search_engine/baidu.ico",
+        "URL": "https://www.baidu.com/s?wd="
+    },
+    {
+        "name": "B站",
+        "icon": "../../img/search_engine/bilibili.ico",
+        "URL": "https://search.bilibili.com/all?keyword="
+    },
+    {
+        "name": "GitHub",
+        "icon": "../../img/search_engine/github.ico",
+        "URL": "https://github.com/search?q="
+    },
+    {
+        "name": "Google",
+        "icon": "../../img/search_engine/google.png",
+        "URL": "https://www.google.com/search?hl=zh-CN&q="
+    }
+]
