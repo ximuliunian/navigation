@@ -249,6 +249,9 @@ img {
     transition: background-color 0.5s, color 0.5s;
     border-radius: 10px;
     padding-left: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 .tag_element_div a:hover {
