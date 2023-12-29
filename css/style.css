@@ -134,6 +134,13 @@ img {
     display: none;
 }
 
+/* 当小于 */
+@media only screen and (max-width: 515px) {
+    #SEList {
+        width: 300px !important;
+    }
+}
+
 /* 显示动画 */
 @keyframes fadenumUP {
     0% {
