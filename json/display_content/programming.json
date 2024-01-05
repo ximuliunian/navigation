@@ -1,42 +1,42 @@
 [
     {
-        "name": "Linux命令查询",
-        "icon": "../../img/ico/tool/linux.ico",
-        "URL": "https://linux.lylme.com/"
+        "name": "GitHub",
+        "icon": "../../img/ico/programming/github.ico",
+        "URL": "https://github.com"
     },
     {
-        "name": "Cloudflare",
-        "icon": "../../img/ico/tool/cloudflare.ico",
-        "URL": "https://dash.cloudflare.com"
+        "name": "字节跳动静态资源公共库",
+        "icon": "../../img/ico/programming/bytedance.png",
+        "URL": "https://cdn.bytedance.com"
     },
     {
-        "name": "Vercel",
-        "icon": "../../img/ico/tool/vercel.png",
-        "URL": "https://vercel.com"
+        "name": "Element-UI组件库",
+        "icon": "../../img/ico/programming/element.png",
+        "URL": "https://element-plus.org/zh-CN"
     },
     {
-        "name": "樱花内网穿透",
-        "icon": "../../img/ico/tool/natfrp.ico",
-        "URL": "https://www.natfrp.com"
+        "name": "Vue",
+        "icon": "../../img/ico/programming/vue.png",
+        "URL": "https://cn.vuejs.org"
     },
     {
-        "name": "Wormhole",
-        "icon": "../../img/ico/tool/wormhole.webp",
-        "URL": "https://wormhole.app"
+        "name": "Axios",
+        "icon": "../../img/ico/programming/axios.png",
+        "URL": "https://www.axios-http.cn"
     },
     {
-        "name": "在线去水印",
-        "icon": "../../img/ico/tool/vidmore.ico",
-        "URL": "https://www.vidmore.com/zh"
+        "name": "JS终端组件",
+        "icon": "../../img/ico/programming/xtermjs.png",
+        "URL": "https://xtermjs.org"
     },
     {
-        "name": "ICON全套制作",
-        "icon": "../../img/ico/tool/realfavicongenerator.png",
-        "URL": "https://realfavicongenerator.net"
+        "name": "SQLPub免费的数据库",
+        "icon": "../../img/ico/programming/sqlpub.ico",
+        "URL": "https://sqlpub.com"
     },
     {
-        "name": "阿里云矢量图标库",
-        "icon": "../../img/ico/tool/iconfont.png",
-        "URL": "https://www.iconfont.cn"
+        "name": "Maven",
+        "icon": "../../img/ico/programming/maven.png",
+        "URL": "https://central.sonatype.com"
     }
 ]
