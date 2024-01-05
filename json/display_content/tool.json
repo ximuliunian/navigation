@@ -33,5 +33,10 @@
         "name": "Maven",
         "icon": "../../img/ico/programming/maven.png",
         "URL": "https://central.sonatype.com"
+    },
+    {
+        "name": "JS终端组件",
+        "icon": "../../img/ico/programming/xtermjs.png",
+        "URL": "https://xtermjs.org"
     }
 ]
