@@ -6,6 +6,11 @@
     user-select: none;
 }
 
+/* 滑动效果 */
+html {
+    scroll-behavior: smooth;
+}
+
 /* 禁止图片拖拽 */
 img {
     -webkit-user-drag: none;
@@ -270,4 +275,54 @@ img {
 /* 里面的 img 标签 */
 .tag_element_div img {
     height: 30px;
+}
+
+/* 索引 */
+
+/* 标签索引 */
+.tag_element_div_index {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+/* a 标签 */
+.tag_element_div_index a {
+    height: 40px;
+    background-color: white;
+    display: inline-block;
+    font-weight: 700;
+    color: rgb(41, 41, 41);
+    transition: background-color 0.5s, color 0.5s;
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto 5px;
+    text-decoration: none;
+}
+
+.tag_element_div_index a:hover {
+    background-color: rgb(205, 155, 252);
+    color: white;
+}
+
+/* 回到顶部 */
+#pastTop {
+    position: fixed;
+    width: 30px;
+    height: 30px;
+    bottom: 10px;
+    right: 10px;
+    background-color: white;
+    text-decoration: none;
+    text-align: center;
+    line-height: 30px;
+    font-weight: bolder;
+    font-size: 20px;
+    color: black;
+    border-radius: 10px;
+    transition: background-color 0.5s, color 0.5s;
+}
+
+#pastTop:hover {
+    background-color: rgb(205, 155, 252);
+    color: white;
 }

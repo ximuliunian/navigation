@@ -30,13 +30,18 @@
         "URL": "https://www.vidmore.com/zh"
     },
     {
+        "name": "在线练打字",
+        "icon": "../../img/ico/tool/dazidazi.ico",
+        "URL": "https://dazidazi.com"
+    },
+    {
+        "name": "在线编辑图像",
+        "icon": "../../img/ico/tool/iloveimg.png",
+        "URL": "https://www.iloveimg.com/zh-cn"
+    },
+    {
         "name": "ICON全套制作",
         "icon": "../../img/ico/tool/realfavicongenerator.png",
         "URL": "https://realfavicongenerator.net"
-    },
-    {
-        "name": "阿里云矢量图标库",
-        "icon": "../../img/ico/tool/iconfont.png",
-        "URL": "https://www.iconfont.cn"
     }
 ]

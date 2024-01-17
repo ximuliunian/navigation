@@ -1,4 +1,5 @@
 {
     "编程": "./json/display_content/programming.json",
-    "工具": "./json/display_content/tool.json"
+    "工具": "./json/display_content/tool.json",
+    "图片": "./json/display_content/images.json"
 }
