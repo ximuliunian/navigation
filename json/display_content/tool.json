@@ -43,5 +43,10 @@
         "name": "ICON全套制作",
         "icon": "../../img/ico/tool/realfavicongenerator.png",
         "URL": "https://realfavicongenerator.net"
+    },
+    {
+        "name": "openAI key领取",
+        "icon": "../../img/ico/tool/openkey.ico",
+        "URL": "https://faucet.openkey.cloud"
     }
 ]
