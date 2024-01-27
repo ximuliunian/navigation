@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Kali",
+        "icon": "../../img/ico/linux_system/kali.png",
+        "URL": "https://www.kali.org"
+    },
+    {
+        "name": "CentOS",
+        "icon": "../../img/ico/linux_system/centos.png",
+        "URL": "https://www.centos.org"
+    },
+    {
+        "name": "ubuntu",
+        "icon": "../../img/ico/linux_system/ubuntu.png",
+        "URL": "https://cn.ubuntu.com"
+    }
+]

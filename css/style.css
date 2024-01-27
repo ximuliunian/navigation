@@ -11,6 +11,11 @@ html {
     scroll-behavior: smooth;
 }
 
+/* 隐藏滑动条 */
+::-webkit-scrollbar {
+    display: none;
+}
+
 /* 禁止图片拖拽 */
 img {
     -webkit-user-drag: none;
