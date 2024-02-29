@@ -10,6 +10,11 @@
         "URL": "https://cdn.bytedance.com"
     },
     {
+        "name": "前端框架 CDN 加速",
+        "icon": "../../img/ico/programming/bootcdn.png",
+        "URL": "https://www.bootcdn.cn"
+    },
+    {
         "name": "Element-UI组件库",
         "icon": "../../img/ico/programming/element.png",
         "URL": "https://element-plus.org/zh-CN"
