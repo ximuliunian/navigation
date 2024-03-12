@@ -43,5 +43,10 @@
         "name": "Maven",
         "icon": "../../img/ico/programming/maven.png",
         "URL": "https://central.sonatype.com"
+    },
+    {
+        "name": "Echarts",
+        "icon": "../../img/ico/programming/echarts.png",
+        "URL": "https://echarts.apache.org/zh/index.html"
     }
 ]
