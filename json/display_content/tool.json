@@ -1,22 +1,22 @@
 [
     {
         "name": "Linux命令查询",
-        "icon": "../../img/ico/tool/linux.ico",
+        "icon": "https://linux.lylme.com/img/favicon.ico",
         "URL": "https://linux.lylme.com/"
     },
     {
         "name": "Cloudflare",
-        "icon": "../../img/ico/tool/cloudflare.ico",
+        "icon": "https://dash.cloudflare.com/favicon.ico",
         "URL": "https://dash.cloudflare.com"
     },
     {
         "name": "Vercel",
-        "icon": "../../img/ico/tool/vercel.png",
+        "icon": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico",
         "URL": "https://vercel.com"
     },
     {
         "name": "樱花内网穿透",
-        "icon": "../../img/ico/tool/natfrp.ico",
+        "icon": "https://www.natfrp.com/favicon.ico",
         "URL": "https://www.natfrp.com"
     },
     {
@@ -26,27 +26,27 @@
     },
     {
         "name": "在线去水印",
-        "icon": "../../img/ico/tool/vidmore.ico",
+        "icon": "https://www.vidmore.com/images/index/favicon.ico",
         "URL": "https://www.vidmore.com/zh"
     },
     {
         "name": "在线练打字",
-        "icon": "../../img/ico/tool/dazidazi.ico",
+        "icon": "https://dazidazi.com/favicon.ico",
         "URL": "https://dazidazi.com"
     },
     {
         "name": "在线编辑图像",
-        "icon": "../../img/ico/tool/iloveimg.png",
+        "icon": "https://www.iloveimg.com/img/favicons-img/favicon-32x32.png",
         "URL": "https://www.iloveimg.com/zh-cn"
     },
     {
         "name": "ICON全套制作",
-        "icon": "../../img/ico/tool/realfavicongenerator.png",
+        "icon": "https://realfavicongenerator.net/the_favicon/favicon-32x32.png",
         "URL": "https://realfavicongenerator.net"
     },
     {
         "name": "openAI key领取",
-        "icon": "../../img/ico/tool/openkey.ico",
+        "icon": "https://faucet.openkey.cloud/favicon.ico",
         "URL": "https://faucet.openkey.cloud"
     }
 ]

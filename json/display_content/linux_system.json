@@ -6,12 +6,12 @@
     },
     {
         "name": "CentOS",
-        "icon": "../../img/ico/linux_system/centos.png",
+        "icon": "https://www.centos.org/assets/img/favicon.png",
         "URL": "https://www.centos.org"
     },
     {
         "name": "ubuntu",
-        "icon": "../../img/ico/linux_system/ubuntu.png",
+        "icon": "https://cn.ubuntu.com/static/img/favicon.ico",
         "URL": "https://cn.ubuntu.com"
     }
 ]

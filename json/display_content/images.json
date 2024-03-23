@@ -6,17 +6,22 @@
     },
     {
         "name": "免费素材图片",
-        "icon": "../../img/ico/images/pexels.ico",
+        "icon": "https://www.pexels.com/assets/static/images/meta/favicon.ico",
         "URL": "https://www.pexels.com/zh-cn"
     },
     {
         "name": "大作",
-        "icon": "../../img/ico/images/bigbigwork.png",
+        "icon": "https://xcx.bigbigwork.com/pimg/favicon.ico",
         "URL": "https://www.bigbigwork.com"
     },
     {
         "name": "Nova Skin",
-        "icon": "../../img/ico/images/novaskin.png",
-        "URL": "https://wallpapers.novaskin.me/"
+        "icon": "https://wallpapers.novaskin.me/icon-192x192.png",
+        "URL": "https://wallpapers.novaskin.me"
+    },
+    {
+        "name": "4K高清壁纸",
+        "icon": "https://haowallpaper.com/favicon.ico",
+        "URL": "https://haowallpaper.com"
     }
 ]
