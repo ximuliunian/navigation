@@ -48,5 +48,10 @@
         "name": "openAI key领取",
         "icon": "https://faucet.openkey.cloud/favicon.ico",
         "URL": "https://faucet.openkey.cloud"
+    },
+    {
+        "name": "极简插件",
+        "icon": "https://chrome.zzzmh.cn/favicon.ico",
+        "URL": "https://chrome.zzzmh.cn"
     }
 ]
