@@ -25,24 +25,9 @@
         "URL": "https://wormhole.app"
     },
     {
-        "name": "在线去水印",
-        "icon": "https://www.vidmore.com/images/index/favicon.ico",
-        "URL": "https://www.vidmore.com/zh"
-    },
-    {
         "name": "在线练打字",
         "icon": "https://dazidazi.com/favicon.ico",
         "URL": "https://dazidazi.com"
-    },
-    {
-        "name": "在线编辑图像",
-        "icon": "https://www.iloveimg.com/img/favicons-img/favicon-32x32.png",
-        "URL": "https://www.iloveimg.com/zh-cn"
-    },
-    {
-        "name": "ICON全套制作",
-        "icon": "https://realfavicongenerator.net/the_favicon/favicon-32x32.png",
-        "URL": "https://realfavicongenerator.net"
     },
     {
         "name": "openAI key领取",
@@ -53,5 +38,20 @@
         "name": "极简插件",
         "icon": "https://chrome.zzzmh.cn/favicon.ico",
         "URL": "https://chrome.zzzmh.cn"
+    },
+    {
+        "name": "Crx插件",
+        "icon": "https://www.crxsoso.com/favicon-32x32.png",
+        "URL": "https://www.crxsoso.com"
+    },
+    {
+        "name": "油猴脚本",
+        "icon": "https://greasyfork.org/vite/assets/blacklogo96-sWE0jP07.png",
+        "URL": "https://greasyfork.org/zh-CN"
+    },
+    {
+        "name": "至美化",
+        "icon": "https://zhutix.com/favicon.ico",
+        "URL": "https://zhutix.com"
     }
 ]

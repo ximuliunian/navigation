@@ -1,6 +1,8 @@
 {
     "编程": "./json/display_content/programming.json",
     "工具": "./json/display_content/tool.json",
+    "工具 - 图片": "./json/display_content/tool-img.json",
+    "软件": "./json/display_content/software.json",
     "Linux系统": "./json/display_content/linux_system.json",
     "图片": "./json/display_content/images.json"
 }

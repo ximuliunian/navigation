@@ -20,6 +20,11 @@
         "URL": "https://element-plus.org/zh-CN"
     },
     {
+        "name": "Element-UI组件库V2",
+        "icon": "https://element.eleme.cn/favicon.ico",
+        "URL": "https://element.eleme.cn/#/zh-CN"
+    },
+    {
         "name": "Vue",
         "icon": "https://cn.vuejs.org/logo.svg",
         "URL": "https://cn.vuejs.org"
