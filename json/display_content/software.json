@@ -1,7 +1,12 @@
 [
     {
-        "name": "Kali",
+        "name": "Marktext",
         "icon": "https://www.marktext.cc/favicon.png",
         "URL": "https://www.marktext.cc"
+    },
+    {
+        "name": "Apifox",
+        "icon": "https://cdn.apifox.com/static/logo/favicon.ico",
+        "URL": "https://apifox.com"
     }
 ]
