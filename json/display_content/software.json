@@ -8,5 +8,10 @@
         "name": "Apifox",
         "icon": "https://cdn.apifox.com/static/logo/favicon.ico",
         "URL": "https://apifox.com"
+    },
+    {
+        "name": "Xshell",
+        "icon": "../../img/ico/software/xshell.ico",
+        "URL": "https://www.xshell.com/zh/free-for-home-school"
     }
 ]
