@@ -2,11 +2,11 @@
 let rd =
     [
         {
-            "img": "../../img/loading/loading1.gif",
+            "img": "/img/loading/loading1.gif",
             "bgcolor": "rgb(41, 41, 41)"
         },
         {
-            "img": "../../img/loading/loading2.gif",
+            "img": "/img/loading/loading2.gif",
             "bgcolor": "rgb(77, 182, 172)"
         }
     ];

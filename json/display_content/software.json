@@ -11,7 +11,7 @@
     },
     {
         "name": "Xshell",
-        "icon": "../../img/ico/software/xshell.ico",
+        "icon": "/img/ico/software/xshell.ico",
         "URL": "https://www.xshell.com/zh/free-for-home-school"
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "name": "GitHub",
-        "icon": "../../img/ico/programming/github.ico",
+        "icon": "/img/ico/programming/github.ico",
         "URL": "https://github.com"
     },
     {

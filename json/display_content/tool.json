@@ -21,7 +21,7 @@
     },
     {
         "name": "Wormhole",
-        "icon": "../../img/ico/tool/wormhole.webp",
+        "icon": "/img/ico/tool/wormhole.webp",
         "URL": "https://wormhole.app"
     },
     {

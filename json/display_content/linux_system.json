@@ -1,7 +1,7 @@
 [
     {
         "name": "Kali",
-        "icon": "../../img/ico/linux_system/kali.png",
+        "icon": "/img/ico/linux_system/kali.png",
         "URL": "https://www.kali.org"
     },
     {
