@@ -8,6 +8,10 @@ let rd =
         {
             "img": "/img/loading/loading2.gif",
             "bgcolor": "rgb(77, 182, 172)"
+        },
+        {
+            "img": "/img/loading/loading3.gif",
+            "bgcolor": "rgb(255, 255, 255)"
         }
     ];
 
