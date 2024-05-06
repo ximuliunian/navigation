@@ -53,5 +53,15 @@
         "name": "Echarts",
         "icon": "https://echarts.apache.org/zh/images/favicon.png",
         "URL": "https://echarts.apache.org/zh/index.html"
+    },
+    {
+        "name": "EpicSpinners加载动画",
+        "icon": "https://epic-spinners.epicmax.co/favicon.ico",
+        "URL": "https://epic-spinners.epicmax.co"
+    },
+    {
+        "name": "CSSLoading加载动画",
+        "icon": "https://css-loaders.com/fav.png",
+        "URL": "https://css-loaders.com/"
     }
 ]
