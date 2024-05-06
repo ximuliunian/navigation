@@ -53,5 +53,10 @@
         "name": "至美化",
         "icon": "https://zhutix.com/favicon.ico",
         "URL": "https://zhutix.com"
+    },
+    {
+        "name": "Cloudreve私人网盘",
+        "icon": "https://cloudreve.org/favicon.ico",
+        "URL": "https://cloudreve.org"
     }
 ]
