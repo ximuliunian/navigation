@@ -23,5 +23,10 @@
         "name": "Google",
         "icon": "/img/search_engine/google.png",
         "URL": "https://www.google.com/search?hl=zh-CN&q="
+    },
+    {
+        "name": "Wiki",
+        "icon": "/img/search_engine/wiki.jpg",
+        "URL": "https://zh.wikipedia.org/wiki/"
     }
 ]
