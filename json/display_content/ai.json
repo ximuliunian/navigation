@@ -1,0 +1,12 @@
+[
+    {
+        "name": "通义千问",
+        "icon": "/img/ico/ai/tongyi.png",
+        "URL": "https://tongyi.aliyun.com"
+    },
+    {
+        "name": "讯飞星火",
+        "icon": "/img/ico/ai/xinghuo.png",
+        "URL": "https://xinghuo.xfyun.cn"
+    }
+]
