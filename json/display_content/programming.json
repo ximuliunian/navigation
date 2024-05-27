@@ -63,5 +63,10 @@
         "name": "CSSLoading加载动画",
         "icon": "https://css-loaders.com/fav.png",
         "URL": "https://css-loaders.com/"
+    },
+    {
+        "name": "Loading 加载动画",
+        "icon": "/img/ico/programming/loadingIo.png",
+        "URL": "https://loading.io"
     }
 ]
