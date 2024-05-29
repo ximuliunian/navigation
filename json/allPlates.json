@@ -1,9 +1,11 @@
 {
     "编程": "./json/display_content/programming.json",
+    "后端": "./json/display_content/backend.json",
+    "前端": "./json/display_content/frontend.json",
     "工具": "./json/display_content/tool.json",
-    "工具 - 图片": "./json/display_content/tool-img.json",
     "软件": "./json/display_content/software.json",
     "Linux系统": "./json/display_content/linux_system.json",
     "图片": "./json/display_content/images.json",
+    "图片处理": "./json/display_content/image_dispose.json",
     "AI": "./json/display_content/ai.json"
 }

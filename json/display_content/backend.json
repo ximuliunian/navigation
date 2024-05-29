@@ -1,0 +1,22 @@
+[
+    {
+        "name": "SQLPub免费的数据库",
+        "icon": "https://sqlpub.com/favicon.ico",
+        "URL": "https://sqlpub.com"
+    },
+    {
+        "name": "Maven",
+        "icon": "https://central.sonatype.com/favicon.ico",
+        "URL": "https://central.sonatype.com"
+    },
+    {
+        "name": "Spring",
+        "icon": "https://spring.io/favicon-32x32.png",
+        "URL": "https://spring.io"
+    },
+    {
+        "name": "Spring 中文网",
+        "icon": "https://springdoc.cn/favicon.ico",
+        "URL": "https://springdoc.cn"
+    }
+]

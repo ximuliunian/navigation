@@ -1,0 +1,57 @@
+[
+    {
+        "name": "字节跳动静态资源公共库",
+        "icon": "https://cdn.bytedance.com/src/res/favicon.png",
+        "URL": "https://cdn.bytedance.com"
+    },
+    {
+        "name": "前端框架 CDN 加速",
+        "icon": "https://www.bootcdn.cn/assets/ico/favicon.ico",
+        "URL": "https://www.bootcdn.cn"
+    },
+    {
+        "name": "Element-UI组件库",
+        "icon": "https://element-plus.org/images/element-plus-logo-small.svg",
+        "URL": "https://element-plus.org/zh-CN"
+    },
+    {
+        "name": "Element-UI组件库V2",
+        "icon": "https://element.eleme.cn/favicon.ico",
+        "URL": "https://element.eleme.cn/#/zh-CN"
+    },
+    {
+        "name": "Vue",
+        "icon": "https://cn.vuejs.org/logo.svg",
+        "URL": "https://cn.vuejs.org"
+    },
+    {
+        "name": "Axios",
+        "icon": "https://www.axios-http.cn/img/favicon.ico",
+        "URL": "https://www.axios-http.cn"
+    },
+    {
+        "name": "JS终端组件",
+        "icon": "https://xtermjs.org/images/favicon.png",
+        "URL": "https://xtermjs.org"
+    },
+    {
+        "name": "Echarts",
+        "icon": "https://echarts.apache.org/zh/images/favicon.png",
+        "URL": "https://echarts.apache.org/zh/index.html"
+    },
+    {
+        "name": "EpicSpinners加载动画",
+        "icon": "https://epic-spinners.epicmax.co/favicon.ico",
+        "URL": "https://epic-spinners.epicmax.co"
+    },
+    {
+        "name": "CSSLoading加载动画",
+        "icon": "https://css-loaders.com/fav.png",
+        "URL": "https://css-loaders.com/"
+    },
+    {
+        "name": "Loading 加载动画",
+        "icon": "/img/ico/programming/loadingio.png",
+        "URL": "https://loading.io"
+    }
+]
