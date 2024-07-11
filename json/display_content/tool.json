@@ -38,5 +38,10 @@
         "name": "Cloudreve私人网盘",
         "icon": "https://cloudreve.org/favicon.ico",
         "URL": "https://cloudreve.org"
+    },
+    {
+        "name": "Deepl",
+        "icon": "https://static.deepl.com/img/logo/deepl-logo-blue.svg",
+        "URL": "https://www.deepl.com"
     }
 ]

@@ -10,11 +10,6 @@
         "URL": "https://gitee.com"
     },
     {
-        "name": "Linux命令查询",
-        "icon": "https://linux.lylme.com/img/favicon.ico",
-        "URL": "https://linux.lylme.com/"
-    },
-    {
         "name": "Cloudflare",
         "icon": "https://dash.cloudflare.com/favicon.ico",
         "URL": "https://dash.cloudflare.com"
@@ -23,6 +18,11 @@
         "name": "Vercel",
         "icon": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico",
         "URL": "https://vercel.com"
+    },
+    {
+        "name": "Linux命令查询",
+        "icon": "https://linux.lylme.com/img/favicon.ico",
+        "URL": "https://linux.lylme.com/"
     },
     {
         "name": "樱花内网穿透",
