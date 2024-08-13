@@ -21,7 +21,7 @@
     },
     {
         "name": "Vue",
-        "icon": "https://cn.vuejs.org/logo.svg",
+        "icon": "/img/ico/fronted/vue.ico",
         "URL": "https://cn.vuejs.org"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
         "name": "Loading 加载动画",
-        "icon": "/img/ico/programming/loadingio.png",
+        "icon": "/img/ico/fronted/loadingio.png",
         "URL": "https://loading.io"
     }
 ]

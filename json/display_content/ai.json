@@ -1,5 +1,10 @@
 [
     {
+        "name": "Kimi",
+        "icon": "https://statics.moonshot.cn/kimi-chat/favicon.ico",
+        "URL": "https://kimi.moonshot.cn"
+    },
+    {
         "name": "通义千问",
         "icon": "/img/ico/ai/tongyi.png",
         "URL": "https://tongyi.aliyun.com"
