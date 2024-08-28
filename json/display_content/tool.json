@@ -43,5 +43,10 @@
         "name": "Deepl",
         "icon": "https://static.deepl.com/img/logo/deepl-logo-blue.svg",
         "URL": "https://www.deepl.com"
+    },
+    {
+        "name": "豆包 MarsCode",
+        "icon": "https://lf-cdn.marscode.cn/obj/marscode-bucket-cn/marscode-favicon.ico",
+        "URL": "https://www.marscode.cn"
     }
 ]
