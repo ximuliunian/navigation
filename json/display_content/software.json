@@ -1,5 +1,10 @@
 [
     {
+        "name": "FocuSee",
+        "icon": "/img/ico/software/FocuSee.png",
+        "URL": "https://gemoo.com/focusee"
+    },
+    {
         "name": "Marktext",
         "icon": "https://www.marktext.cc/favicon.png",
         "URL": "https://www.marktext.cc"
