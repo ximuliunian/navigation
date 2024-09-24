@@ -45,8 +45,13 @@
         "URL": "https://www.deepl.com"
     },
     {
-        "name": "豆包 MarsCode",
-        "icon": "https://lf-cdn.marscode.cn/obj/marscode-bucket-cn/marscode-favicon.ico",
-        "URL": "https://www.marscode.cn"
+        "name": "樱花内网穿透",
+        "icon": "https://www.natfrp.com/favicon.ico",
+        "URL": "https://www.natfrp.com"
+    },
+    {
+        "name": "cpolar内网穿透",
+        "icon": "https://www.cpolar.com/wp-content/uploads/2016/10/cropped-site-icon-1-1-32x32.png",
+        "URL": "https://www.cpolar.com"
     }
 ]

@@ -13,5 +13,15 @@
         "name": "讯飞星火",
         "icon": "/img/ico/ai/xinghuo.png",
         "URL": "https://xinghuo.xfyun.cn"
+    },
+    {
+        "name": "哩布哩布AI",
+        "icon": "https://liblibai-web-static.liblib.cloud/favicon_v2.png",
+        "URL": "https://www.liblib.art"
+    },
+    {
+        "name": "Ollama",
+        "icon": "https://ollama.com/public/icon-32x32.png",
+        "URL": "https://ollama.com/"
     }
 ]

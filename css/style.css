@@ -282,6 +282,7 @@ img {
 /* 里面的 img 标签 */
 .tag_element_div img {
     height: 30px;
+    border-radius: 5px;
 }
 
 /* 索引 */

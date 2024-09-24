@@ -25,8 +25,18 @@
         "URL": "https://linux.lylme.com/"
     },
     {
-        "name": "樱花内网穿透",
-        "icon": "https://www.natfrp.com/favicon.ico",
-        "URL": "https://www.natfrp.com"
+        "name": "豆包 MarsCode",
+        "icon": "https://lf-cdn.marscode.cn/obj/marscode-bucket-cn/marscode-favicon.ico",
+        "URL": "https://www.marscode.cn"
+    },
+    {
+        "name": "Hello算法",
+        "icon": "https://www.hello-algo.com/assets/images/favicon.png",
+        "URL": "https://www.hello-algo.com"
+    },
+    {
+        "name": "LeetCode",
+        "icon": "https://leetcode.cn/favicon.ico",
+        "URL": "https://leetcode.cn"
     }
 ]

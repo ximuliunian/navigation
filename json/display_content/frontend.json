@@ -53,5 +53,10 @@
         "name": "Loading 加载动画",
         "icon": "/img/ico/fronted/loadingio.png",
         "URL": "https://loading.io"
+    },
+    {
+        "name": "uni-app",
+        "icon": "https://qiniu-web-assets.dcloud.net.cn/unidoc/zh/icon.png",
+        "URL": "https://uniapp.dcloud.net.cn"
     }
 ]
