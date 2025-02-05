@@ -22,6 +22,11 @@
     {
         "name": "Ollama",
         "icon": "https://ollama.com/public/icon-32x32.png",
-        "URL": "https://ollama.com/"
+        "URL": "https://ollama.com"
+    },
+    {
+        "name": "DeepSeek",
+        "icon": "https://chat.deepseek.com/favicon.svg",
+        "URL": "https://chat.deepseek.com"
     }
 ]
