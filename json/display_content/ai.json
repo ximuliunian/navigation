@@ -28,5 +28,10 @@
         "name": "DeepSeek",
         "icon": "https://chat.deepseek.com/favicon.svg",
         "URL": "https://chat.deepseek.com"
+    },
+    {
+        "name": "智谱清言",
+        "icon": "https://chatglm.cn/favicon.ico",
+        "URL": "https://chatglm.cn"
     }
 ]
