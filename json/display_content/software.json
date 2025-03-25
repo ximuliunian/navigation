@@ -18,5 +18,10 @@
         "name": "Xshell",
         "icon": "/img/ico/software/xshell.ico",
         "URL": "https://www.xshell.com/zh/free-for-home-school"
+    },
+    {
+        "name": "MoeKoe Music",
+        "icon": "https://music.moekoe.cn/ico.png",
+        "URL": "https://music.moekoe.cn"
     }
 ]
